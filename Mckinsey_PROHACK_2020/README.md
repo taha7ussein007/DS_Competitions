@@ -76,8 +76,8 @@ in total there are 50000 zillion DSML available for allocation and no galaxy at 
 
 | Variable | Description |
 | ------ | ------ |
-| Index | [Unique index from the test dataset in the ascending order] |
-| pred | [Prediction for the index on interest] |
-| opt_pred | [Optimal energy allocation] |
+| Index | Unique index from the test dataset in the ascending order |
+| pred | Prediction for the index on interest |
+| opt_pred | Optimal energy allocation |
 
 
